@@ -6,6 +6,9 @@ switch (englishDay) {
   case "Tuesday":
     koreanDay = "화요일";
     break;
+  case "Wednesday":
+    koreanDay = "수요일";
+    break;
   default:
     koreanDay = "주말";
     break;
